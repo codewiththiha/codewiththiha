@@ -1,33 +1,17 @@
-Highlights
+Summary Full-stack developer with a strong focus on Go backends and React/Next.js frontends. I bridge the gap between systems engineering and polished UI, currently exploring AI integrations (Gemini, TTS) and desktop application development.
 
-- AI‑curious: Practical integrations (Gemini for image/quiz generation, TTS experiments).
+Core Competencies
 
-- Systems + UI: From Go services and CLIs to polished React/Next.js frontends.
+Backend: Go, Java, Python, Node.js (TypeScript)
+Frontend: React, Next.js, Tailwind CSS, Shadcn UI, Radix UI
+Data & AI: Google Gemini API, Gradio, Zod, Prisma
+Systems & Ops: Linux, OpenVPN, Git, Security (Passkeys/2FA)
+Current Focus
 
-- Milestone: ITPEC IP Exam — Bronze (April 2025).
-
-Tech I use
-
-- Languages: Go, TypeScript/JavaScript , Java, HTML/CSS
-
-- Web: Next.js, React, Prisma, Zustand, TanStack Query, React Hook Form, Zod, Tailwind CSS, Radix UI, Shadcn
-
-- Desktop: Python + Tkinter, Wails (exploring)
-
-- AI/ML: Google Gemini (free tier), Gradio (TTS prototypes)
-
-- Ops & Tools: OpenVPN, Passkeys/2FA, Git/GitHub
-
-What’s next
-
-- Wails v3 GUI for Vmate with sane sudo handling on Linux/macOS
-
-- Polishing AI flows (image → nutrition, quiz generation) with better UX and reliability
-
-- More Go services and TypeScript full‑stack patterns
-
+Wails v3: Building Vmate GUI with secure sudo handling for Linux/macOS.
+AI Automation: Optimizing flows for image analysis (nutrition data) and quiz generation.
+Architecture: Designing scalable Go services and robust full-stack TypeScript patterns.
 Connect
 
-- GitHub: codewiththiha ↗
-
-- Email: kt007441@gmail.com · kt666400@gmail.com
+GitHub: codewiththiha
+Email: kt007441@gmail.com
