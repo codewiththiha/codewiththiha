@@ -1,28 +1,19 @@
-Hi, I’m Kyaw Thiha — a full‑stack developer building fast, reliable apps with Go backends and React/Next.js frontends.
+## **Hi, I’m Kyaw Thiha 👋**
 
-What I do
+Full-stack developer specializing in **performance-first web applications**. I bridge the gap between robust **Go** backends and polished **React/Next.js** frontends.
 
-- Backend: Go (Gin/Fiber), REST APIs, MongoDB Atlas, performance-first design
+### **🛠 Tech Stack**
 
-- Frontend: React/Next.js, TypeScript, Tailwind CSS, Shadcn/Radix UI
+* **Backend:** Go (Gin, Fiber), REST APIs, MongoDB Atlas
+* **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Shadcn UI
+* **Workflow:** TanStack Query, Vite, Air, CI/CD (GitHub Actions), Railway
 
-- Dev workflow: Vite, Air hot-reload, TanStack Query, GitHub Actions
+### **🚀 Recent Focus**
 
-- Deploy: Railway, environment-driven configs, CI/CD, CORS/networking done right
+* **Full-Stack Architecture:** Building Go + React starter templates for rapid deployment.
+* **AI & Tooling:** Developing **Synapse** (AI productivity suite) and **Puter** UI explorations.
+* **DevOps:** Mastering environment-driven configs, CORS/networking, and production-ready API wiring.
 
-Recent work
+> I turn messy requirements into clean, testable code. If you're building with **Go & React**, let's connect.
 
-- Go + React starter templates and basics for rapid full-stack development
-
-- Synapse: AI productivity suite experiments and integrations
-
-- Puter platform UI exploration and Go tooling
-
-I like turning messy requirements into clean, testable code and production-ready deployments. If you’re building something in Go/React—or need help untangling config, CORS, or API wiring—let’s connect.
-
-Tech I use
-
-Go • React • TypeScript • MongoDB • Tailwind • Shadcn UI • Radix UI • TanStack Query • Vite • Railway
-
-GitHub: codewiththiha
-Email: kt007441@gmail.com
+emails : codewiththiha@gmail.com , codewiththiha@icloud.com
